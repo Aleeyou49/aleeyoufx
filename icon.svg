@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="100" fill="#0b1220"/>
+<path d="M90 350 L180 260 L245 300 L365 150 L420 190" fill="none" stroke="#19c37d" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="256" y="435" font-family="Arial,sans-serif" font-size="70" font-weight="700" fill="#edf3ff" text-anchor="middle">AFX</text>
+</svg>
